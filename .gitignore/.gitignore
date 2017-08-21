@@ -58,5 +58,5 @@ typings/
 .env
 
 #js files
-src/*.js
-src/*.js.map
+src/**/*.js
+src/**/*.js.map
